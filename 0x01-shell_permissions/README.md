@@ -8,3 +8,4 @@
 7-everybody - Gives execute permission to owner, group owner and the world
 8-James_Bond - Gives only user all permissions
 9-John_Doe - Sets the permission -rwxr-x-wx
+10-mirror_permissions - Mirror permissions of file 'olleh' to file 'hello'
