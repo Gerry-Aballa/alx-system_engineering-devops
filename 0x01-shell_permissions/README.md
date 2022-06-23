@@ -7,3 +7,4 @@
 6-multiple_permissions -Gives execute permission to owner and groud and read permission to others
 7-everybody - Gives execute permission to owner, group owner and the world
 8-James_Bond - Gives only user all permissions
+9-John_Doe - Sets the permission -rwxr-x-wx
