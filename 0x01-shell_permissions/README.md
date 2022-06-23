@@ -9,3 +9,5 @@
 8-James_Bond - Gives only user all permissions
 9-John_Doe - Sets the permission -rwxr-x-wx
 10-mirror_permissions - Mirror permissions of file 'olleh' to file 'hello'
+11-directory_permissions - Set permissions for a directory an all subdirectories excluding files
+12-directory_permissions - Make a directory 'my_dir' with permissions 751
