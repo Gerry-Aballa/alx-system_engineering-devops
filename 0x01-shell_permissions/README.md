@@ -4,3 +4,4 @@
 3-new_owner - Change owner of file 'hello' to user 'betty'
 4-empty - Create an empty file called hello
 5-execute - Give owner permission to execute file 'hello'
+6-multiple_permissions -Gives execute permission to owner and groud and read permission to others
